@@ -1,11 +1,11 @@
 {
-  "name": "stripe-sms-notifications",
+  "name": "sms-twilio",
   "description": "This app will handle incoming requests from Stripe and send outgoing SMS messages.",
-  "repository": "https://github.com/Brodan/stripe-sms-notifications",
+  "repository": "https://github.com/gentrybu/sms-twilio",
   "keywords": ["python", "stripe", "flask", "twilio"],
   "env": {
       "TWILIO_ACCOUNT_SID": {
-        "description": "Your Twilio account sid. DO NOT SHARE. Find at https://www.twilio.com/console",
+        "description": "AC3265ee3d1cd68d48628b2d0660c32034",
         "required": true
       },
       "TWILIO_AUTH_TOKEN": {
